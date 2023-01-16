@@ -50,9 +50,16 @@ It asks you the following Information:
 
 **CLOSE AN ACCOUNT**
 
+* Enter The account No. :
+* It closes that account
+
 **MODIFY AN ACCOUNT**
+* Enter The account No. :
+* Make changes to that account
      
 **EXIT**
+
+*Closes the system
     
         
 

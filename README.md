@@ -20,7 +20,7 @@ Various types of bank accounts exist to attend to the different needs of the con
 
 <h2> User Defined Functions </h2>
 
-**Create Account:**
+**NEW ACCOUNT:**
 
 It asks you the following Information:
 
@@ -29,22 +29,30 @@ It asks you the following Information:
 * Enter the type of account [C/S] :    (that is Checking or a Saving's Account)
 * Enter The Initial amount(>=500 for Saving and >=1000 for current
 
-**showAccount**
+**DEPOSIT AMOUNT**
 
-**modifyAccount**
+* Enter The account No. :
+* Amount to be deposited:
 
-**depositAmount**
+**WITHDRAW AMOUNT**
 
-**withdrawAmount**
+* Enter The account No. :
+* Amount to be withdrawn:
 
-**report**
+**BALANCE ENQUIRY**
 
-**getAccountNo**
+* Enter The account No. :
+* Balance regarding the account you selected
 
-AcccountHolderName
+**ALL ACCOUNT HOLDERS LIST**
+
+* Records Of all the account holders
+
+**CLOSE AN ACCOUNT**
+
+**MODIFY AN ACCOUNT**
      
-getAccountType
-     
- getDeposit
+**EXIT**
+    
         
 

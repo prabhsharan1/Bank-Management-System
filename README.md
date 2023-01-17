@@ -20,6 +20,8 @@ Various types of bank accounts exist to attend to the different needs of the con
 
 <h2> User Defined Functions </h2>
 
+<img src="https://user-images.githubusercontent.com/122405126/212790146-40243716-2447-4059-a1be-f9bb077fdb24.png">
+
 **NEW ACCOUNT:**
 
 It asks you the following Information:
